@@ -1,0 +1,7 @@
+{
+  "name": "Partenaire en Parole",
+  "description": "A French conversation partner for A1/A2 students using Gemini Live and Chat APIs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
